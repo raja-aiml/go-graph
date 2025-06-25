@@ -1,4 +1,5 @@
 # LangGraph Go SDK
 
-This directory contains a preliminary Go implementation of the LangGraph SDK. It currently exposes a simple `Hello` function as a starting point for migrating functionality to Golang.
-
+This directory contains a preliminary Go implementation of the LangGraph SDK. It
+initially exposed only a simple `Hello` function. A basic `auth` package has now
+been added with an `HTTPException` type mirroring the Python SDK.
