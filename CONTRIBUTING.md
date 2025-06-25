@@ -227,7 +227,8 @@ see a preview of the documentation on the pull request page.
 
 From the **monorepo root**, run the following command to install the dependencies:
 
-<!-- TODO -->
+Run the following command to install the Python dependencies required for
+building the documentation:
 ```bash
 poetry install --with docs --no-root
 ```
