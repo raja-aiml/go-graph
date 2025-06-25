@@ -1,4 +1,4 @@
-module github.com/langchain-ai/langgraph-go
+module github.com/langchain-ai/sdk-go
 
 go 1.23
 

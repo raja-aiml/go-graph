@@ -1,3 +1,9 @@
 go 1.23.8
 
 use ./libs/sdk-go
+use ./libs/checkpoint-go
+use ./libs/checkpoint-postgres-go
+use ./libs/checkpoint-sqlite-go
+use ./libs/cli-go
+use ./libs/langgraph-go
+use ./libs/prebuilt-go
